@@ -19,7 +19,14 @@ public class BJ1546 {
             newScore[i] = score[i] / (double) max * 100.0;
             sum += newScore[i];
         }
-        bw.write(String.valueOf(sum / (double)n));
+        // 더 간단한 방법
+        double originSum = 0;
+        for(int i = 0; i<n; i++){
+            originSum += score[i];
+        }
+        bw.write(String.valueOf(originSum * 100 / max / n));
         bw.flush();
+//        bw.write(String.valueOf(sum / (double)n));
+//        bw.flush();
     }
 }
