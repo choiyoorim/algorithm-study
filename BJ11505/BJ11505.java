@@ -71,7 +71,7 @@ public class BJ11505 {
         long multiple = 1;
         while(start<=end){
             if(start%2 == 1) {
-                multiple = multiple * tree[start] % MOD;
+                multiple = multiple * tree[                        start] % MOD;
                 start++;
             }
             if(end%2 == 0){
