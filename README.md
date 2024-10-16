@@ -127,10 +127,18 @@ arr[1].add(new Node());
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO178870T/PRO178870T.java)
 
 ## 📕  HashMap
-[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO258712T/PRO258712T.java)
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO258712T/PRO258712T.java) 
+
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/a7142ad498da52bdc3921ab65ac555ad6801b2be/PRO138476/PRO138476.java) : HashMap Value 정렬 방식 참고
 
 ## 📕  LocalTime 활용법
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO340213/PRO340213.java)
 
 ## 📕  Greedy 알고리즘
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO181188/PRO181188.java)
+
+## 📕  슬라이딩 윈도우
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/a7142ad498da52bdc3921ab65ac555ad6801b2be/PRO131701/PRO131701.java) : +) HashSet 활용 
+
+## 📕  Stack 활용 
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/a7142ad498da52bdc3921ab65ac555ad6801b2be/PRO154539/PRO154539.java)
