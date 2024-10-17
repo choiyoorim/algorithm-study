@@ -126,10 +126,14 @@ arr[1].add(new Node());
 ## 📕  투포인터 
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO178870T/PRO178870T.java)
 
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/f16bfc7a7dd8389a078f469617901a1e68cf4bb8/PRO118667/PRO118667.java) : (큐 자료구조의 특성을 고려 + 슬라이딩 윈도우 방식 도입)
+
 ## 📕  HashMap
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO258712T/PRO258712T.java) 
 
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/a7142ad498da52bdc3921ab65ac555ad6801b2be/PRO138476/PRO138476.java) : HashMap Value 정렬 방식 참고
+
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/f16bfc7a7dd8389a078f469617901a1e68cf4bb8/PRO131127/PRO131127.java) : HahsMap KeySet 활용
 
 ## 📕  LocalTime 활용법
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/164a2455f67fcea49bb46217752a6dfe9e9e8ba0/PRO340213/PRO340213.java)
@@ -142,3 +146,7 @@ arr[1].add(new Node());
 
 ## 📕  Stack 활용 
 [관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/a7142ad498da52bdc3921ab65ac555ad6801b2be/PRO154539/PRO154539.java)
+
+## 📕  DFS 활용
+[관련 문제 보기](https://github.com/choiyoorim/algorithm-study/blob/f16bfc7a7dd8389a078f469617901a1e68cf4bb8/PRO87946/PRO87946.java)
+
